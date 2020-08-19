@@ -1,4 +1,4 @@
-# Elastic-Docker
+# Elastic-Docker (single node)
 
 
 ## References @compose file
